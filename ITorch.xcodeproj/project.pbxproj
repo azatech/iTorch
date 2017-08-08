@@ -146,6 +146,7 @@
 				TargetAttributes = {
 					FC2832F51F38F28000308DAB = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = L8KP66Y8C7;
 						ProvisioningStyle = Automatic;
 					};
 					FC2833091F38F28100308DAB = {
@@ -339,6 +340,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = L8KP66Y8C7;
 				INFOPLIST_FILE = ITorch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = swift3.ITorch;
@@ -351,6 +353,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = L8KP66Y8C7;
 				INFOPLIST_FILE = ITorch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = swift3.ITorch;
